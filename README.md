@@ -23,7 +23,7 @@ This repository is a curated list of research papers, projects, and resources re
   <img src="./statistics.png" alt="Statistics for Research Trends" width="100%" />
 </p>
 
-We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to open issues or pull requests.
+We will try to keep this list updated. If you find any errors or any missing paper, please don't hesitate to open issues or pull requests.
 
 **📘 Read our survey paper here:** [A Comprehensive Survey of AI Agents for Healthcare](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
 
