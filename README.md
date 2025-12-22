@@ -573,3 +573,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 # Acknowledgement
 
 This awesome list is maintained by a collaborative team from the University of Notre Dame, Johns Hopkins University, and Emory University. The authors of the survey paper are Gelei Xu*, Xueyang Li*, Yixiong Chen*, Yuying Duan*, Shuqing Wu*, Alexander Yu*, Ching-Hao Chiu*, Juntong Ni*, Ningzhi Tang, Toby Jia-Jun Li, Alan Yuille, Wei Jin, and Yiyu Shi (* equal contribution).
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)](https://www.star-history.com/#AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)
