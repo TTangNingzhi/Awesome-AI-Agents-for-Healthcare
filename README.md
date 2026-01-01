@@ -109,7 +109,7 @@ Here is the updated content for the **Latest Papers (Year 2025)** and **Papers b
 1. [arxiv 2025.12] **ClinNoteAgents: An LLM Multi-Agent System for Predicting and Interpreting Heart Failure 30-Day Readmission from Clinical Notes** [[paper]](https://arxiv.org/abs/2512.07081)
 1. [arxiv 2025.12] **MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation** [[paper]](https://arxiv.org/abs/2512.05671)
 1. [arxiv 2025.12] **MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare** [[paper]](https://arxiv.org/abs/2512.05365)
-1. [arxiv 2025.12] **Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation** [[paper]](https://arxiv.org/abs/2512.03445)
+1. [arxiv 2025.12] **Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation** [[paper]](https://arxiv.org/abs/2512.03445) [[Github]](https://github.com/SiyuanYan1/Derm1M)
 1. [arxiv 2025.12] **Thucy: An LLM-based Multi-Agent System for Claim Verification across Relational Databases** [[paper]](https://arxiv.org/abs/2512.03278)
 1. [arxiv 2025.12] **Many-to-One Adversarial Consensus: Exposing Multi-Agent Collusion Risks in AI-Based Healthcare** [[paper]](https://arxiv.org/abs/2512.03097)
 1. [arxiv 2025.12] **FinAgent: An Agentic AI Framework Integrating Personal Finance and Nutrition Planning** [[paper]](https://arxiv.org/abs/2512.20991)
@@ -505,12 +505,12 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                                 | Venue             | Date    | Paper Link                                             | Project Page                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :---------------- | :------ | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.03445) | Not Available |
+| **Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.03445) |  ![Star](https://img.shields.io/github/stars/SiyuanYan1/Derm1M.svg?style=social&label=Star) <br> [Github](https://github.com/SiyuanYan1/Derm1M) |
 | **Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.14157) | Not Available |
-| **AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.16883) | [Code](https://github.com/hank0316/AdaSearch) |
+| **AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.16883) | ![Star](https://img.shields.io/github/stars/hank0316/AdaSearch.svg?style=social&label=Star) <br> [Github](https://github.com/hank0316/AdaSearch) |
 | **Multi-Agent Medical Decision Consensus Matrix System: An Intelligent Collaborative Framework for Oncology MDT Consultations** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.14321) | Not Available |
 | **Multi-Agent Intelligence for Multidisciplinary Decision-Making in Gastrointestinal Oncology** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.08674) | Not Available |
-| **DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.07132) | [Code](https://github.com/nsivaku/dart) |
+| **DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.07132) | ![Star](https://img.shields.io/github/stars/nsivaku/dart.svg?style=social&label=Star) <br> [Github](https://github.com/nsivaku/dart) |
 | **MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.05365) | Not Available |
 | **Many-to-One Adversarial Consensus: Exposing Multi-Agent Collusion Risks in AI-Based Healthcare** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.03097) | Not Available |
 | **Thucy: An LLM-based Multi-Agent System for Claim Verification across Relational Databases** | AAAI Workshop | 2025.12 | [Paper](https://arxiv.org/abs/2512.03278) | Not Available |
