@@ -49,7 +49,7 @@ If you find our paper and repository helpful, please cite:
   - [Year 2023](#year-2023)
 - [Papers by Category](#papers-by-category)
   - [1. Doctor-Facing Agents](#1-doctor-facing-agents)
-    - [1.1 Multi-Modal Agents](#11-multi-modal-agents)
+    - [1.1 Multi-Modal Clinical Agents](#11-multi-modal-clinical-agents)
     - [1.2 Radiology Agents (CT, X-ray, MRI, etc.)](#12-radiology-agents-ct-x-ray-mri-etc)
     - [1.3 Pathology Agents](#13-pathology-agents)
     - [1.4 Cardiovascular Imaging Agents](#14-cardiovascular-imaging)
@@ -61,7 +61,7 @@ If you find our paper and repository helpful, please cite:
     - [1.10 EHR & Clinical Note Agents](#110-ehr--clinical-note-agents)
     - [1.11 Surgical Agents](#111-surgical-agents)
     - [1.12 Education Agents](#112-education-agents)
-    - [1.13 Reasoning & Multi Agents](#113-reasoning--multi-agents)
+    - [1.13 Reasoning & Multi Agent Techniques](#113-reasoning--multi-agent-techniques)
   - [2. Patient-Facing Applications](#2-patient-facing-applications)
     - [2.1 Mental Health & CBT Agents](#21-mental-health--cbt-agents)
     - [2.2 Clinical Communication & Intake Agents](#22-clinical-communication--intake-agents)
@@ -77,11 +77,6 @@ If you find our paper and repository helpful, please cite:
 
 ## Year 2025
 
-Here is the updated content for the **Latest Papers (Year 2025)** and **Papers by Category** sections, incorporating the new papers from December 2025.
-
-### **Latest Papers**
-
-#### **Year 2025**
 
 1. [arxiv 2025.12] **Hybrid-Code: A Privacy-Preserving, Redundant Multi-Agent Framework for Reliable Local Clinical Coding** [[paper]](https://arxiv.org/abs/2512.23743)
 1. [arxiv 2025.12] **ClinDEF: A Dynamic Evaluation Framework for Large Language Models in Clinical Reasoning** [[paper]](https://arxiv.org/abs/2512.23440)
@@ -376,7 +371,7 @@ Here is the updated content for the **Latest Papers (Year 2025)** and **Papers b
 
 ## **1. Doctor-facing Agents**
 
-### **1.1 Multi-Modal Agents**
+### **1.1 Multi-Modal Clinical Agents**
 
 _(Agents designed to process and reason over multiple data types like images, text, and structured data)_
 
@@ -501,7 +496,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.05671) | Not Available |
 | **Exploring Community-Powered Conversational Agent for Health Knowledge Acquisition** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.09511) | Not Available |
 
-### **1.13 Reasoning & Multi Agents**
+### **1.13 Reasoning & Multi Agent Techniques**
 
 | Title                                                                                                                                 | Venue             | Date    | Paper Link                                             | Project Page                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :---------------- | :------ | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
