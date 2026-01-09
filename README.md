@@ -43,37 +43,46 @@ If you find our paper and repository helpful, please cite:
 
 #### Table of Contents
 
+- [Awesome AI Agents for Healthcare](#awesome-ai-agents-for-healthcare)
+      - [Table of Contents](#table-of-contents)
 - [Latest Papers](#latest-papers)
+  - [Year 2026](#year-2026)
   - [Year 2025](#year-2025)
   - [Year 2024](#year-2024)
   - [Year 2023](#year-2023)
 - [Papers by Category](#papers-by-category)
-  - [1. Doctor-Facing Agents](#1-doctor-facing-agents)
-    - [1.1 Multi-Modal Clinical Agents](#11-multi-modal-clinical-agents)
-    - [1.2 Radiology Agents (CT, X-ray, MRI, etc.)](#12-radiology-agents-ct-x-ray-mri-etc)
-    - [1.3 Pathology Agents](#13-pathology-agents)
-    - [1.4 Cardiovascular Imaging Agents](#14-cardiovascular-imaging)
-    - [1.5 Sonography / Ultrasound Agents](#15-sonography--ultrasound)
-    - [1.6 Radiotherapy Agents](#16-radiotherapy)
-    - [1.7 Dermatology Agents](#17-dermatology)
-    - [1.8 Dental Agents](#18-dental-agents)
-    - [1.9 Genomics & Biomarker Agents](#19-genomics--biomarker-agents)
-    - [1.10 EHR & Clinical Note Agents](#110-ehr--clinical-note-agents)
-    - [1.11 Surgical Agents](#111-surgical-agents)
-    - [1.12 Education Agents](#112-education-agents)
-    - [1.13 Reasoning & Multi Agent Techniques](#113-reasoning--multi-agent-techniques)
-  - [2. Patient-Facing Applications](#2-patient-facing-applications)
-    - [2.1 Mental Health & CBT Agents](#21-mental-health--cbt-agents)
-    - [2.2 Clinical Communication & Intake Agents](#22-clinical-communication--intake-agents)
-    - [2.3 Screening & Personalized Care Agents](#23-screening--personalized-care-agents)
-    - [2.4 General-purpose Healthcare Avatars](#24-general-purpose-healthcare-avatars)
-  - [3. Drug Discovery & Development Agents](#3-drug-discovery--development)
-  - [4. Healthcare Administration & Workflow Agents](#4-healthcare-administration--workflow)
-  - [5. Datasets & Benchmarks](#5-datasets--benchmarks)
+  - [**1. Doctor-facing Agents**](#1-doctor-facing-agents)
+    - [**1.1 Multi-Modal Clinical Agents**](#11-multi-modal-clinical-agents)
+    - [**1.2 Radiology Agents (CT, X-ray, MRI, etc.)**](#12-radiology-agents-ct-x-ray-mri-etc)
+    - [**1.3 Pathology Agents**](#13-pathology-agents)
+    - [**1.4 Cardiovascular Imaging**](#14-cardiovascular-imaging)
+    - [**1.5 Sonography / Ultrasound**](#15-sonography--ultrasound)
+    - [**1.6 Radiotherapy**](#16-radiotherapy)
+    - [**1.7 Dermatology**](#17-dermatology)
+    - [**1.8 Dental Agents**](#18-dental-agents)
+    - [**1.9 Genomics \& Biomarker Agents**](#19-genomics--biomarker-agents)
+    - [**1.10 EHR \& Clinical Note Agents**](#110-ehr--clinical-note-agents)
+    - [**1.11 Surgical Agents**](#111-surgical-agents)
+    - [**1.12 Education Agents**](#112-education-agents)
+    - [**1.13 Reasoning \& Multi Agent Techniques**](#113-reasoning--multi-agent-techniques)
+  - [**2. Patient-Facing Applications**](#2-patient-facing-applications)
+    - [**2.1 Mental Health \& CBT Agents**](#21-mental-health--cbt-agents)
+    - [**2.2 Clinical Communication \& Intake Agents**](#22-clinical-communication--intake-agents)
+    - [**2.3 Screening \& Personalized Care Agents**](#23-screening--personalized-care-agents)
+    - [**2.4 General-purpose Healthcare Avatars**](#24-general-purpose-healthcare-avatars)
+  - [**3. Drug Discovery \& Development**](#3-drug-discovery--development)
+  - [**4. Healthcare Administration \& Workflow**](#4-healthcare-administration--workflow)
+  - [**5. Datasets \& Benchmarks**](#5-datasets--benchmarks)
+- [Acknowledgement](#acknowledgement)
+- [Star History](#star-history)
 
 ---
 
 # Latest Papers
+
+## Year 2026
+
+1. [AAAI 2026] **LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules** [[paper]](https://arxiv.org/abs/2511.21042) [[Github]](https://github.com/ImYangC7/LungNoduleAgent)
 
 ## Year 2025
 
@@ -390,6 +399,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                    | Venue                                      | Date    | Paper Link                                                            | Project Page                                                                                                                                                                         |
 | :----------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- | :------ | :-------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules** | AAAI | 2026.1 | [Paper](https://arxiv.org/abs/2511.21042) | ![Star](https://img.shields.io/github/stars/ImYangC7/LungNoduleAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/ImYangC7/LungNoduleAgent) 
 | **Bidirectional human-AI collaboration in brain tumour assessments improves both expert human and AI agent performance** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.19707) | Not Available |
 | **INFORM-CT: INtegrating LLMs and VLMs FOR Incidental Findings Management in Abdominal CT** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.14732) | Not Available |
 | **Radiologist Copilot: Agentic AI Assistant for Holistic Radiology Reporting with Quality Control**              | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.02814)                | Not Available                                                                                                                                                   |
