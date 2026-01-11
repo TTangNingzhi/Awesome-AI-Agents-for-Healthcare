@@ -43,14 +43,12 @@ If you find our paper and repository helpful, please cite:
 
 #### Table of Contents
 
-- [Awesome AI Agents for Healthcare](#awesome-ai-agents-for-healthcare)
-      - [Table of Contents](#table-of-contents)
-- [Latest Papers](#latest-papers)
-  - [Year 2026](#year-2026)
-  - [Year 2025](#year-2025)
-  - [Year 2024](#year-2024)
-  - [Year 2023](#year-2023)
-- [Papers by Category](#papers-by-category)
+- [**Latest Papers**](#latest-papers)
+  - [**Year 2026**](#year-2026)
+  - [**Year 2025**](#year-2025)
+  - [**Year 2024**](#year-2024)
+  - [**Year 2023**](#year-2023)
+- [**Papers by Category**](#papers-by-category)
   - [**1. Doctor-facing Agents**](#1-doctor-facing-agents)
     - [**1.1 Multi-Modal Clinical Agents**](#11-multi-modal-clinical-agents)
     - [**1.2 Radiology Agents (CT, X-ray, MRI, etc.)**](#12-radiology-agents-ct-x-ray-mri-etc)
@@ -73,8 +71,8 @@ If you find our paper and repository helpful, please cite:
   - [**3. Drug Discovery \& Development**](#3-drug-discovery--development)
   - [**4. Healthcare Administration \& Workflow**](#4-healthcare-administration--workflow)
   - [**5. Datasets \& Benchmarks**](#5-datasets--benchmarks)
-- [Acknowledgement](#acknowledgement)
-- [Star History](#star-history)
+- [**Acknowledgement**](#acknowledgement)
+- [**Star History**](#star-history)
 
 ---
 
