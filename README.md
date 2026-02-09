@@ -81,7 +81,7 @@ If you find our paper and repository helpful, please cite:
 ## Year 2026
 
 1. [IEEE Access 2026] **Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents** [[paper]](https://arxiv.org/abs/2602.04813)
-1. [arxiv 2026.2] **MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning** [[paper]](https://arxiv.org/abs/2602.03320)
+1. [arxiv 2026.2] **MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning** [[paper]](https://arxiv.org/abs/2602.03320) [[Github]](https://github.com/CUHK-AIM-Group/MedSAM-Agent)
 1. [arxiv 2026.2] **Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2602.04926)
 1. [arxiv 2026.2] **RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis** [[paper]](https://arxiv.org/abs/2602.01297)
 1. [arxiv 2026.2] **MedBeads: An Agent-Native, Immutable Data Substrate for Trustworthy Medical AI** [[paper]](https://arxiv.org/abs/2602.01086)
@@ -409,7 +409,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                       | Venue   | Date    | Paper Link                                                                                                                    | Project Page                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------- | :------ | :------ | :---------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic RL** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.03320) | Not Available |
+| **MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic RL** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.03320) | ![Star](https://img.shields.io/github/stars/CUHK-AIM-Group/MedSAM-Agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/CUHK-AIM-Group/MedSAM-Agent) |
 | **IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.03054) | Not Available |
 | **MedSAM3: Delving into Segment Anything with Medical Concepts**                                                 | arXiv | 2025.11 | [Paper](https://arxiv.org/abs/2511.19046)                | ![Star](https://img.shields.io/github/stars/Joey-S-Liu/MedSAM3.svg?style=social&label=Star) <br> [GitHub](https://github.com/Joey-S-Liu/MedSAM3)               |
 | **AURA: A Multi-modal Medical Agent for Understanding, Reasoning & Annotation**                             | MICCAI workshop   | 2025.07 | [Paper](http://arxiv.org/abs/2507.16940v1)                                                                                    | ![Star](https://img.shields.io/github/stars/nimafathi/AURA.svg?style=social&label=Star) <br> [GitHub](https://github.com/nimafathi/AURA)                   |
