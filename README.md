@@ -90,7 +90,7 @@ If you find our paper and repository helpful, please cite:
 1. [arxiv 2026.2] **ExperienceWeaver: Optimizing Small-sample Experience Learning for LLM-based Clinical Text Improvement** [[paper]](https://arxiv.org/abs/2602.00740)
 1. [ICLR 2026] **MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale** [[paper]](https://openreview.net/pdf?id=oZSofhtmIc#page=0.42) [[Github]](https://github.com/wshi83/MedAgentGym)
 1. [AAAI 2026] **LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules** [[paper]](https://arxiv.org/abs/2511.21042) [[Github]](https://github.com/ImYangC7/LungNoduleAgent)
-1. [arxiv 2026.1] **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning** [[paper]](https://arxiv.org/abs/2601.22964)
+1. [arxiv 2026.1] **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning** [[paper]](https://arxiv.org/abs/2601.22964) [[Github]](https://github.com/yf-he/EvoClinician)
 1. [arxiv 2026.1] **Scaling Medical Reasoning Verification via Tool-Integrated Reinforcement Learning** [[paper]](https://arxiv.org/abs/2601.20221)
 1. [arxiv 2026.1] **DEEPMED: Building a Medical DeepResearch Agent via Multi-hop Med-Search Data** [[paper]](https://arxiv.org/abs/2601.18496)
 1. [arxiv 2026.1] **AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning** [[paper]](https://arxiv.org/abs/2601.16685)
@@ -543,7 +543,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.04926) | Not Available |
 | **RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.01297) | Not Available |
 | **Agentic Reasoning for Large Language Models** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.12538) | ![Star](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning.svg?style=social&label=Star) <br> [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning) |
-| **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.22964) | Not Available |
+| **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.22964) | ![Star](https://img.shields.io/github/stars/yf-he/EvoClinician.svg?style=social&label=Star) <br> [GitHub](https://github.com/yf-he/EvoClinician) |
 | **Scaling Medical Reasoning Verification via Tool-Integrated Reinforcement Learning** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.20221) | Not Available |
 | **DEEPMED: Building a Medical DeepResearch Agent via Multi-hop Med-Search Data** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.18496) | Not Available |
 | **Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation** | ICCV 2025 Highlight | 2025.12 | [Paper](https://arxiv.org/abs/2512.03445) |  ![Star](https://img.shields.io/github/stars/SiyuanYan1/Derm1M.svg?style=social&label=Star) <br> [Github](https://github.com/SiyuanYan1/Derm1M) |
