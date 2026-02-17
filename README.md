@@ -71,6 +71,7 @@ If you find our paper and repository helpful, please cite:
   - [**3. Drug Discovery \& Development**](#3-drug-discovery--development)
   - [**4. Healthcare Administration \& Workflow**](#4-healthcare-administration--workflow)
   - [**5. Datasets \& Benchmarks**](#5-datasets--benchmarks)
+- [**Open-Source Projects & Tools**](#open-source-projects--tools)
 - [**Acknowledgement**](#acknowledgement)
 - [**Star History**](#star-history)
 
@@ -707,6 +708,57 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning**                                  | arXiv | 2024.06 | [Paper](https://arxiv.org/abs/2406.00922)  | ![Star](https://img.shields.io/github/stars/stellalisy/mediQ.svg?style=social&label=Star) <br> [GitHub](https://github.com/stellalisy/mediQ)                               |
 | **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**               | arXiv | 2024.05 | [Paper](https://arxiv.org/abs/2405.07960)  | ![Star](https://img.shields.io/github/stars/samuelschmidgall/agentclinic.svg?style=social&label=Star) <br> [GitHub](https://github.com/samuelschmidgall/agentclinic)       |
 | **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**                                    | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.02957v3) | ![Star](https://img.shields.io/github/stars/wisdom-pan/Agent_Hospital.svg?style=social&label=Star) <br> [GitHub](https://github.com/wisdom-pan/Agent_Hospital)             |
+
+---
+
+# Open-Source Projects & Tools
+
+Beyond academic research papers, several open-source projects and tools provide practical infrastructure for building healthcare AI agent systems. This section catalogs actively maintained projects, MCP servers, and frameworks.
+
+## Healthcare-Specific Agent Systems
+
+| Project | Description | Links |
+| :------ | :---------- | :---- |
+| **Healthcare Agent Orchestrator** | Azure-based modular specialized agents for multi-disciplinary healthcare workflows | ![Star](https://img.shields.io/github/stars/Azure-Samples/healthcare-agent-orchestrator.svg?style=social&label=Star) <br> [GitHub](https://github.com/Azure-Samples/healthcare-agent-orchestrator) |
+| **Multi-Agent Medical Assistant** | GenAI-powered multi-agentic medical diagnostics chatbot with advanced RAG and medical imaging | ![Star](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant.svg?style=social&label=Star) <br> [GitHub](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) |
+| **MedicalCoderSwarm** | Production-grade multi-agent system for medical diagnosis and coding with specialized AI agents | ![Star](https://img.shields.io/github/stars/The-Swarm-Corporation/MedicalCoderSwarm.svg?style=social&label=Star) <br> [GitHub](https://github.com/The-Swarm-Corporation/MedicalCoderSwarm) |
+| **AI-Agents-for-Medical-Diagnostics** | LLM-based AI agents that analyze complex medical cases by integrating specialist insights | ![Star](https://img.shields.io/github/stars/ahmadvh/AI-Agents-for-Medical-Diagnostics.svg?style=social&label=Star) <br> [GitHub](https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics) |
+| **HealthGPT (Stanford)** | Experimental iOS app for natural language interaction with Apple Health data | ![Star](https://img.shields.io/github/stars/StanfordBDHG/HealthGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/StanfordBDHG/HealthGPT) |
+| **DoctorGPT** | Offline-first LLM fine-tuned on medical dialogue data that can pass the US Medical Licensing Exam | ![Star](https://img.shields.io/github/stars/tmc/DoctorGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/tmc/DoctorGPT) |
+| **Anthropic Healthcare Skills** | Official healthcare skills including FHIR developer tools, prior auth review, and clinical trial protocol generation | [GitHub](https://github.com/anthropics/healthcare) |
+
+## Healthcare MCP Servers
+
+| Project | Description | Links |
+| :------ | :---------- | :---- |
+| **Healthcare MCP Public** | MCP server providing AI assistants access to FDA drug info, PubMed, clinical trials, ICD-10, and medical calculators | ![Star](https://img.shields.io/github/stars/Cicatriiz/healthcare-mcp-public.svg?style=social&label=Star) <br> [GitHub](https://github.com/Cicatriiz/healthcare-mcp-public) |
+| **TruthStack MCP** | Supplement-drug interaction safety tool for AI agents with 1,008 directed interactions and FDA adverse event signals | ![Star](https://img.shields.io/github/stars/TruthStack1/truthstack-mcp.svg?style=social&label=Star) <br> [GitHub](https://github.com/TruthStack1/truthstack-mcp) \| [LangChain](https://github.com/TruthStack1/truthstack-langchain) \| [API](https://api.truthstack.co/docs) |
+| **Medical MCP** | MCP server querying FDA, WHO, PubMed, Google Scholar, and RxNorm APIs | ![Star](https://img.shields.io/github/stars/JamesANZ/medical-mcp.svg?style=social&label=Star) <br> [GitHub](https://github.com/JamesANZ/medical-mcp) |
+| **FHIR MCP Server** | FHIR-compliant MCP server with full CRUD operations and LOINC integration for natural language queries | ![Star](https://img.shields.io/github/stars/wso2/fhir-mcp-server.svg?style=social&label=Star) <br> [GitHub](https://github.com/wso2/fhir-mcp-server) |
+| **Google Cloud Healthcare API MCP** | MCP server for Google Cloud Healthcare API FHIR resources and medical research APIs | ![Star](https://img.shields.io/github/stars/Kartha-AI/google-cloud-healthcare-api-mcp.svg?style=social&label=Star) <br> [GitHub](https://github.com/Kartha-AI/google-cloud-healthcare-api-mcp) |
+| **AWS HealthLake MCP Server** | MCP server for AWS HealthLake FHIR operations with 11 tools for FHIR resource management | [Documentation](https://awslabs.github.io/mcp/servers/healthlake-mcp-server) |
+| **Awesome Medical MCP Servers** | Curated collection of Medical MCP servers for healthcare data integration | ![Star](https://img.shields.io/github/stars/sunanhe/awesome-medical-mcp-servers.svg?style=social&label=Star) <br> [GitHub](https://github.com/sunanhe/awesome-medical-mcp-servers) |
+
+## Healthcare RAG & Knowledge Systems
+
+| Project | Description | Links |
+| :------ | :---------- | :---- |
+| **MedRAG Toolkit** | Systematic toolkit for Retrieval-Augmented Generation on medical QA with MIRAGE benchmark | ![Star](https://img.shields.io/github/stars/Teddy-XiongGZ/MedRAG.svg?style=social&label=Star) <br> [GitHub](https://github.com/Teddy-XiongGZ/MedRAG) |
+| **MedGraph-AI** | RAG agent for healthcare using LangChain with Neo4j knowledge graphs | ![Star](https://img.shields.io/github/stars/asanmateu/medgraph-ai.svg?style=social&label=Star) <br> [GitHub](https://github.com/asanmateu/medgraph-ai) |
+
+## Medical Imaging & Deep Learning Frameworks
+
+| Project | Description | Links |
+| :------ | :---------- | :---- |
+| **MONAI** | PyTorch-based framework for deep learning in healthcare imaging (by NVIDIA & King's College London) | ![Star](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?style=social&label=Star) <br> [GitHub](https://github.com/Project-MONAI/MONAI) |
+| **PyHealth** | Deep learning toolkit for healthcare applications supporting patient prediction tasks | ![Star](https://img.shields.io/github/stars/sunlabuiuc/PyHealth.svg?style=social&label=Star) <br> [GitHub](https://github.com/sunlabuiuc/PyHealth) |
+
+## Related Awesome Lists
+
+| Project | Description | Links |
+| :------ | :---------- | :---- |
+| **Awesome Healthcare** | Curated list of awesome open source healthcare software, libraries, tools and resources | ![Star](https://img.shields.io/github/stars/kakoni/awesome-healthcare.svg?style=social&label=Star) <br> [GitHub](https://github.com/kakoni/awesome-healthcare) |
+| **Awesome Healthcare AI** | Curated list of open source healthcare tools, algorithms, datasets and research papers | ![Star](https://img.shields.io/github/stars/medtorch/awesome-healthcare-ai.svg?style=social&label=Star) <br> [GitHub](https://github.com/medtorch/awesome-healthcare-ai) |
 
 # Acknowledgement
 
