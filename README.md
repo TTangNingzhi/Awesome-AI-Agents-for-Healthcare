@@ -719,6 +719,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 
 | Project | Description | Links |
 | :------ | :---------- | :---- |
+| **ClawdTalk** | Voice calling and SMS skill for AI agents enabling telephony capabilities for healthcare communication | ![Star](https://img.shields.io/github/stars/team-telnyx/clawdtalk-client.svg?style=social&label=Star) <br> [GitHub](https://github.com/team-telnyx/clawdtalk-client) \| [Website](https://clawdtalk.com) |
 | **Healthcare Agent Orchestrator** | Azure-based modular specialized agents for multi-disciplinary healthcare workflows | ![Star](https://img.shields.io/github/stars/Azure-Samples/healthcare-agent-orchestrator.svg?style=social&label=Star) <br> [GitHub](https://github.com/Azure-Samples/healthcare-agent-orchestrator) |
 | **Multi-Agent Medical Assistant** | GenAI-powered multi-agentic medical diagnostics chatbot with advanced RAG and medical imaging | ![Star](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant.svg?style=social&label=Star) <br> [GitHub](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) |
 | **MedicalCoderSwarm** | Production-grade multi-agent system for medical diagnosis and coding with specialized AI agents | ![Star](https://img.shields.io/github/stars/The-Swarm-Corporation/MedicalCoderSwarm.svg?style=social&label=Star) <br> [GitHub](https://github.com/The-Swarm-Corporation/MedicalCoderSwarm) |
