@@ -7,23 +7,29 @@
 
 This repository is a curated list of research papers, projects, and resources related to the application of **Agentic AI / AI agents for healthcare**, including medical image analysis, EHR manipulation, counseling, drug discovery, patient dialogue, and healthcare administration. AI agents refer to artificial intelligence systems that can autonomously perform tasks, make decisions, and interact with their environment, often through the use of large language models (LLMs), multi-agent systems, and tool integrations.
 
-1. Below image introduces a comprehensive conceptual framework. It provides a holistic view, detailing the pipeline from initial data perception and foundational agent capabilities to a hierarchical application ecosystem.
+1. The image below introduces a comprehensive conceptual framework. It provides a holistic view, detailing the pipeline from initial data perception and foundational agent capabilities to a hierarchical application ecosystem.
 
 <p align="center">
   <img src="./landscape.png" alt="Overall Landscape" width="100%" />
 </p>
 
-2. We conducted a quantitative analysis of recent academic literature, with the key findings summarized in below image. This analysis provides a data-driven snapshot of the field’s growth trajectory, technological underpinnings, and application hotspots:
+2. We conducted a quantitative analysis of recent academic literature, with the key findings summarised in the image below. This analysis provides a data-driven snapshot of the field’s growth trajectory, technological underpinnings, and application hotspots:
 
-* **Top Data Modalities**: Textual data remain the most frequently utilized modalities. Time-Series and Genomics exhibit a high proportion of publications from 2025.
+* **Top Data Modalities**: Textual data remains the most frequently utilized modality. Time-Series and Genomics exhibit a high proportion of publications from 2025.
 * **Top Technologies**: The technological focus is heavily concentrated on three topics: 1) developing highlevel Frameworks, 2) enhancing agent Reasoning, and 3) designing Multi-Agent collaboration paradigms.
-* **Top Application Domains**: Agentic AI continues to be widely applied in broad domains like General Medicine, Public Health, and Mental Health. Drug Discovery and Genomics as particularly new frontiers.
+* **Top Application Domains**: Agentic AI continues to be widely applied in broad domains like General Medicine, Public Health, and Mental Health. Drug Discovery and Genomics are particularly new frontiers.
 
 <p align="center">
   <img src="./statistics.png" alt="Statistics for Research Trends" width="100%" />
 </p>
 
-We will try to keep this list updated. If you find any errors or any missing paper, please don't hesitate to open issues or pull requests.
+### 📊 Paper Annotations
+
+To promote transparency and reproducibility, we provide the structured annotation sheet used in our survey, including labels for technologies, medical domains, tasks, development stages, data modalities, and evaluation metrics.
+
+**👉 View the full Google Sheet here:** [Link](https://docs.google.com/spreadsheets/d/15VfUS36CqaJRRldtiXZ4LicTVc_0puk8v98mUWWrPOg/edit?usp=sharing)
+
+We will try to keep this list updated. If you find any errors or any missing papers, please don't hesitate to open issues or pull requests.
 
 **📘 Read our survey paper here:** [A Comprehensive Survey of AI Agents for Healthcare](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
 
