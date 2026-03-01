@@ -23,12 +23,6 @@ This repository is a curated list of research papers, projects, and resources re
   <img src="./statistics.png" alt="Statistics for Research Trends" width="100%" />
 </p>
 
-### 📊 Paper Annotations
-
-To promote transparency and reproducibility, we provide the structured annotation sheet used in our survey, including labels for technologies, medical domains, tasks, development stages, data modalities, and evaluation metrics.
-
-**👉 View the full Google Sheet here:** [Link](https://docs.google.com/spreadsheets/d/15VfUS36CqaJRRldtiXZ4LicTVc_0puk8v98mUWWrPOg/edit?usp=sharing)
-
 We will try to keep this list updated. If you find any errors or any missing papers, please don't hesitate to open issues or pull requests.
 
 **📘 Read our survey paper here:** [A Comprehensive Survey of AI Agents for Healthcare](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare)
@@ -776,6 +770,9 @@ Beyond academic research papers, several open-source projects and tools provide 
 # Acknowledgement
 
 This awesome list is maintained by a collaborative team from the University of Notre Dame, Johns Hopkins University, and Emory University. The authors of the survey paper are Gelei Xu*, Xueyang Li*, Yixiong Chen*, Yuying Duan*, Shuqing Wu*, Alexander Yu*, Ching-Hao Chiu*, Juntong Ni*, Ningzhi Tang, Toby Jia-Jun Li, Alan Yuille, Wei Jin, and Yiyu Shi (* equal contribution).
+
+# Paper Annotations
+To promote transparency and reproducibility, we provide the structured annotation sheet used in our survey, including labels for technologies, medical domains, tasks, development stages, data modalities, and evaluation metrics. View the full Google Sheet here: [Link](https://docs.google.com/spreadsheets/d/15VfUS36CqaJRRldtiXZ4LicTVc_0puk8v98mUWWrPOg/edit?usp=sharing)
 
 # Star History
 
