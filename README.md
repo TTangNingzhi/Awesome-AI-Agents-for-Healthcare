@@ -199,7 +199,7 @@ If you find our paper and repository helpful, please cite:
 1.  [arxiv 2025.10] **MedCoAct: Confidence-Aware Multi-Agent Collaboration for Complete Clinical Decision** [[paper]](https://arxiv.org/abs/2510.10461)
 1.  [arxiv 2025.10] **Haibu Mathematical-Medical Intelligent Agent:Enhancing Large Language Model Reliability in Medical Tasks via Verifiable Reasoning Chains** [[paper]](https://arxiv.org/abs/2510.07748)
 1.  [arxiv 2025.10] **Reinforcement Learning for Clinical Reasoning: Aligning LLMs with ACR Imaging Appropriateness Criteria** [[paper]](https://arxiv.org/abs/2510.05194)
-1.  [EMNLP 2025] **CLARITY: Clinical Assistant for Routing, Inference, and Triage** [[paper]](https://arxiv.org/abs/2510.02463)
+1.  [EMNLP 2025 Industry] **CLARITY: Clinical Assistant for Routing, Inference, and Triage** [[paper]](https://arxiv.org/abs/2510.02463)
 1.  [arxiv 2025.10] **Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP** [[paper]](https://arxiv.org/abs/2510.01780)
 1.  [arxiv 2025.9] **AgenticAD: A Specialized Multiagent System Framework for Holistic Alzheimer Disease Management** [[paper]](https://arxiv.org/abs/2510.08578)
 1.  [arxiv 2025.9] **Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents** [[paper]](https://arxiv.org/abs/2510.02325)
