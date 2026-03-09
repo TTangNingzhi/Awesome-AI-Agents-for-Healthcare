@@ -784,60 +784,60 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**               | arXiv | 2024.05 | [Paper](https://arxiv.org/abs/2405.07960)  | ![Star](https://img.shields.io/github/stars/samuelschmidgall/agentclinic.svg?style=social&label=Star) <br> [GitHub](https://github.com/samuelschmidgall/agentclinic)       |
 | **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**                                    | arXiv | 2024.05 | [Paper](http://arxiv.org/abs/2405.02957v3) | ![Star](https://img.shields.io/github/stars/wisdom-pan/Agent_Hospital.svg?style=social&label=Star) <br> [GitHub](https://github.com/wisdom-pan/Agent_Hospital)             |
 
+
 ## **6. Related Surveys**
 
 ### **6.1 General Healthcare AI Agent Surveys**
 
-| Title | Venue | Date | Paper Link |
-| :---- | :---- | :--- | :--------- |
-| **A Comprehensive Survey of Agentic AI in Healthcare** | Authorea / TechRxiv | 2025 | [Paper](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare) |
-| **AI agents in clinical medicine: a systematic review** | medRxiv | 2025 | [Paper](https://www.medrxiv.org/content/10.1101/2025.08.22.25334232v1) |
-| **LLM-based agentic systems in medicine and healthcare** | Nature Machine Intelligence | 2024 | [Paper](https://www.nature.com/articles/s42256-024-00944-1) |
-| **A Survey of LLM-based Agents in Medicine: How far are we from Baymax?** | ACL 2025 Findings | 2025 | [Paper](https://arxiv.org/abs/2502.11211) |
-| **The Landscape of Medical Agents: A Survey** | TechRxiv | 2025 | [Paper](https://www.techrxiv.org/users/1005258/articles/1368207) |
-| **Agentic large-language-model systems in medicine: A systematic review and taxonomy** | TechRxiv | 2025 | [Paper](https://www.techrxiv.org/users/960463/articles/1330469-agentic-large-language-model-systems-in-medicine-a-systematic-review-and-taxonomy) |
-| **Agentic large language models for healthcare: current progress and future opportunities** | Medicine Advances (Wiley) | 2025 | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/med4.70000) |
-| **A Survey of LLM-based Multi-agent Systems in Medicine** | TechRxiv / OpenReview | 2025 | [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1) |
-| **AI agent in healthcare: applications, evaluations, and future directions** | npj Artificial Intelligence | 2026 | [Paper](https://www.nature.com/articles/s44387-026-00076-4) |
-| **A foundational architecture for AI agents in healthcare** | Cell Reports Medicine | 2025 | [Paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00447-1) |
-| **Coordinated AI agents for advancing healthcare** | Nature Biomedical Engineering | 2025 | [Paper](https://www.nature.com/articles/s41551-025-01363-2) |
-| **Next-generation agentic AI for transforming healthcare** | Cell Reports Medicine | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2949953425000141) |
-| **Large Language Model Agents for Biomedicine: A Comprehensive Review** | Information (MDPI) | 2025 | [Paper](https://www.mdpi.com/2078-2489/16/10/894) |
-| **Artificial intelligence agents in healthcare research: A scoping review** | PLOS ONE | 2025 | [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182) |
-| **Benchmarking large language model-based agent systems for clinical decision tasks** | npj Digital Medicine | 2026 | [Paper](https://www.nature.com/articles/s41746-026-02443-6) |
-| **Enhancing diagnostic capability with multi-agents conversational large language models** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01550-0) |
-| **Applications of artificial intelligence-based conversational agents in healthcare: A systematic umbrella review** | International Journal of Medical Informatics | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S1386505625004216) |
-| **Scoping Review of Agentic AI Systems in Healthcare** | HAL | 2025 | [Paper](https://hal.science/hal-05491919v1/document) |
-| **AI Agents in Modern Healthcare: From Foundation to Pioneer** | Preprints.org | 2025 | [Paper](https://www.preprints.org/manuscript/202503.1352) |
-| **Multi-Agent AI Systems in Healthcare: A Systematic Review Enhancing Clinical Decision-Making** | Asian Journal of Medical Principles and Clinical Practice | 2025 | [Paper](https://journalajmpcp.com/index.php/AJMPCP/article/view/288) |
+| Title | Venue | Date | Paper Link | Project Page |
+| :---- | :---- | :--- | :--------- | :----------- |
+| **A Comprehensive Survey of Agentic AI in Healthcare** | Authorea / TechRxiv | 2025 | [Paper](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare) | ![Star](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare.svg?style=social&label=Star) <br> [GitHub](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) |
+| **AI agents in clinical medicine: a systematic review** | medRxiv | 2025 | [Paper](https://www.medrxiv.org/content/10.1101/2025.08.22.25334232v1) | Not Available |
+| **LLM-based agentic systems in medicine and healthcare** | Nature Machine Intelligence | 2024 | [Paper](https://www.nature.com/articles/s42256-024-00944-1) | Not Available |
+| **A Survey of LLM-based Agents in Medicine: How far are we from Baymax?** | ACL 2025 Findings | 2025 | [Paper](https://arxiv.org/abs/2502.11211) | ![Star](https://img.shields.io/github/stars/AIM-Research-Lab/Awesome-AI-Agents-Medicine.svg?style=social&label=Star) <br> [GitHub](https://github.com/AIM-Research-Lab/Awesome-AI-Agents-Medicine) |
+| **The Landscape of Medical Agents: A Survey** | TechRxiv | 2025 | [Paper](https://www.techrxiv.org/users/1005258/articles/1368207) | ![Star](https://img.shields.io/github/stars/NUS-Project/Landmark-of-medical-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/NUS-Project/Landmark-of-medical-agent) |
+| **Agentic large-language-model systems in medicine: A systematic review and taxonomy** | TechRxiv | 2025 | [Paper](https://www.techrxiv.org/users/960463/articles/1330469-agentic-large-language-model-systems-in-medicine-a-systematic-review-and-taxonomy) | Not Available |
+| **Agentic large language models for healthcare: current progress and future opportunities** | Medicine Advances (Wiley) | 2025 | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/med4.70000) | Not Available |
+| **A Survey of LLM-based Multi-agent Systems in Medicine** | TechRxiv / OpenReview | 2025 | [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1) | Not Available |
+| **AI agent in healthcare: applications, evaluations, and future directions** | npj Artificial Intelligence | 2026 | [Paper](https://www.nature.com/articles/s44387-026-00076-4) | Not Available |
+| **A foundational architecture for AI agents in healthcare** | Cell Reports Medicine | 2025 | [Paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00447-1) | Not Available |
+| **Coordinated AI agents for advancing healthcare** | Nature Biomedical Engineering | 2025 | [Paper](https://www.nature.com/articles/s41551-025-01363-2) | Not Available |
+| **Next-generation agentic AI for transforming healthcare** | Cell Reports Medicine | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2949953425000141) | Not Available |
+| **Large Language Model Agents for Biomedicine: A Comprehensive Review** | Information (MDPI) | 2025 | [Paper](https://www.mdpi.com/2078-2489/16/10/894) | Not Available |
+| **Artificial intelligence agents in healthcare research: A scoping review** | PLOS ONE | 2025 | [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182) | Not Available |
+| **Benchmarking large language model-based agent systems for clinical decision tasks** | npj Digital Medicine | 2026 | [Paper](https://www.nature.com/articles/s41746-026-02443-6) | Not Available |
+| **Enhancing diagnostic capability with multi-agents conversational large language models** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01550-0) | ![Star](https://img.shields.io/github/stars/geteff1/Multi-agent-conversation-for-disease-diagnosis.svg?style=social&label=Star) <br> [GitHub](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis) |
+| **Applications of artificial intelligence-based conversational agents in healthcare: A systematic umbrella review** | International Journal of Medical Informatics | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S1386505625004216) | Not Available |
+| **Scoping Review of Agentic AI Systems in Healthcare** | HAL | 2025 | [Paper](https://hal.science/hal-05491919v1/document) | Not Available |
+| **AI Agents in Modern Healthcare: From Foundation to Pioneer** | Preprints.org | 2025 | [Paper](https://www.preprints.org/manuscript/202503.1352) | Not Available |
+| **Multi-Agent AI Systems in Healthcare: A Systematic Review Enhancing Clinical Decision-Making** | Asian Journal of Medical Principles and Clinical Practice | 2025 | [Paper](https://journalajmpcp.com/index.php/AJMPCP/article/view/288) | Not Available |
 
 ### **6.2 Radiology-Specific Surveys**
 
-| Title | Venue | Date | Paper Link |
-| :---- | :---- | :--- | :--------- |
-| **Agentic AI in Radiology: Evolution from Large Language Models to Future Clinical Integration** | Radiology: Artificial Intelligence (RSNA) | 2025 | [Paper](https://pubs.rsna.org/doi/10.1148/ryai.250651) |
-| **From chatbots to agentic workflows: ensuring responsible deployment of large language models in radiology** | Indian Journal of Radiology and Imaging | 2025 | [Paper](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0045-1811264) |
-| **Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges** | Bioengineering (MDPI) | 2025 | [Paper](https://www.mdpi.com/2306-5354/12/12/1303) |
-| **Agentic systems in radiology: Design, Applications, Evaluation, and Challenges** | arXiv | 2025 | [Paper](https://arxiv.org/abs/2510.09404) |
-| **Agentic AI in radiology: emerging potential and unresolved challenges** | British Journal of Radiology | 2025 | [Paper](https://academic.oup.com/bjr/article/98/1174/1582/8211910) |
-| **Agentic systems in radiology: Principles, opportunities, privacy risks, regulation, and sustainability concerns** | Radiography | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2211568425001858) |
-| **The Role of Agentic AI in Musculoskeletal Radiology: A Scoping Review** | Tomography (MDPI) | 2025 | [Paper](https://www.mdpi.com/2073-431X/15/2/89) |
+| Title | Venue | Date | Paper Link | Project Page |
+| :---- | :---- | :--- | :--------- | :----------- |
+| **Agentic AI in Radiology: Evolution from Large Language Models to Future Clinical Integration** | Radiology: Artificial Intelligence (RSNA) | 2025 | [Paper](https://pubs.rsna.org/doi/10.1148/ryai.250651) | Not Available |
+| **From chatbots to agentic workflows: ensuring responsible deployment of large language models in radiology** | Indian Journal of Radiology and Imaging | 2025 | [Paper](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0045-1811264) | Not Available |
+| **Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges** | Bioengineering (MDPI) | 2025 | [Paper](https://www.mdpi.com/2306-5354/12/12/1303) | Not Available |
+| **Agentic systems in radiology: Design, Applications, Evaluation, and Challenges** | arXiv | 2025 | [Paper](https://arxiv.org/abs/2510.09404) | Not Available |
+| **Agentic AI in radiology: emerging potential and unresolved challenges** | British Journal of Radiology | 2025 | [Paper](https://academic.oup.com/bjr/article/98/1174/1582/8211910) | Not Available |
+| **Agentic systems in radiology: Principles, opportunities, privacy risks, regulation, and sustainability concerns** | Radiography | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2211568425001858) | Not Available |
+| **The Role of Agentic AI in Musculoskeletal Radiology: A Scoping Review** | Tomography (MDPI) | 2025 | [Paper](https://www.mdpi.com/2073-431X/15/2/89) | Not Available |
 
 ### **6.3 Specialty-Specific Surveys**
 
-| Title | Venue | Date | Paper Link |
-| :---- | :---- | :--- | :--------- |
-| **Reimagining psychiatric care with agentic AI: promise, challenges, and a roadmap forward** | npj Digital Medicine | 2026 | [Paper](https://www.nature.com/articles/s41746-026-02453-4) |
-| **Large language model-driven agents in nursing practice: A scoping review** | Nurse Education Today | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2352013225001309) |
-| **Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education** | Communications Medicine | 2025 | [Paper](https://www.nature.com/articles/s43856-025-01283-x) |
+| Title | Venue | Date | Paper Link | Project Page |
+| :---- | :---- | :--- | :--------- | :----------- |
+| **Reimagining psychiatric care with agentic AI: promise, challenges, and a roadmap forward** | npj Digital Medicine | 2026 | [Paper](https://www.nature.com/articles/s41746-026-02453-4) | Not Available |
+| **Large language model-driven agents in nursing practice: A scoping review** | Nurse Education Today | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2352013225001309) | Not Available |
+| **Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education** | Communications Medicine | 2025 | [Paper](https://www.nature.com/articles/s43856-025-01283-x) | Not Available |
 
 ### **6.4 Biomedical Research & Discovery Surveys**
 
-| Title | Venue | Date | Paper Link |
-| :---- | :---- | :--- | :--------- |
-| **Empowering biomedical discovery with AI agents** | Cell | 2024 | [Paper](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5) |
-| **Agentic AI and the rise of in silico team science in biomedical research** | Nature Biotechnology | 2026 | [Paper](https://www.nature.com/articles/s41587-026-03035-1) |
-
+| Title | Venue | Date | Paper Link | Project Page |
+| :---- | :---- | :--- | :--------- | :----------- |
+| **Empowering biomedical discovery with AI agents** | Cell | 2024 | [Paper](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5) | ![Star](https://img.shields.io/github/stars/OmicsML/awesome-agents-biology-papers.svg?style=social&label=Star) <br> [GitHub](https://github.com/OmicsML/awesome-agents-biology-papers) |
+| **Agentic AI and the rise of in silico team science in biomedical research** | Nature Biotechnology | 2026 | [Paper](https://www.nature.com/articles/s41587-026-03035-1) | Not Available |
 
 
 ---
