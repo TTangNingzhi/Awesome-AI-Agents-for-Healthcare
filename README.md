@@ -86,6 +86,7 @@ If you find our paper and repository helpful, please cite:
 
 ## Year 2026
 
+1. [arxiv 2026.3] **Meissa: Multi-modal Medical Agentic Intelligence** [[paper]](https://arxiv.org/abs/2603.09018) [[Github]](https://github.com/Schuture/Meissa)
 1. [ICLR 2026] **CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework** [[paper]](https://arxiv.org/abs/2603.01607)
 1. [ICLR 2026] **ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue** [[paper]](https://arxiv.org/abs/2603.02216)
 1. [EACL 2026 Workshop] **Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?** [[paper]](https://arxiv.org/abs/2603.04421)
@@ -482,7 +483,8 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                       | Venue   | Date    | Paper Link                                                                                                                    | Project Page                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------- | :------ | :------ | :---------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning** | ICLR | 2026.03 | [Paper](https://arxiv.org/abs/2603.01607) | Not Available |
+| **Meissa: Multi-modal Medical Agentic Intelligence** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.09018) | ![Star](https://img.shields.io/github/stars/Schuture/Meissa.svg?style=social&label=Star) <br> [GitHub](https://github.com/Schuture/Meissa) |
+| **CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning** | ICLR | 2026.03 | [Paper](https://arxiv.org/abs/2603.01607) | [Project](https://xypb.github.io/CARE-Project-Page/) |
 | **3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.18064) | Not Available |
 | **CoMMa: Contribution-Aware Medical Multi-Agents From A Game-Theoretic Perspective** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.09159) | Not Available |
 | **MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.12705) | Not Available |
