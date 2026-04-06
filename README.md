@@ -99,7 +99,6 @@ If you find our paper and repository helpful, please cite:
 1. [CHI 2026 Workshop] **Rethinking Health Agents: From Siloed AI to Collaborative Decision Mediators** [[paper]](https://arxiv.org/abs/2603.24986)
 1. [arxiv 2026.3] **MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies** [[paper]](https://arxiv.org/abs/2603.24649) [[Github]](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) [[Project]](https://jakobshen.github.io/MedOpenClaw/)
 1. [arxiv 2026.3] **Multi-Agent Reasoning with Consistency Verification Improves Uncertainty Calibration in Medical MCQA** [[paper]](https://arxiv.org/abs/2603.24481)
-1. [arxiv 2026.3] **RVLM: Recursive Vision-Language Models with Adaptive Depth** [[paper]](https://arxiv.org/abs/2603.24224) [[Github]](https://github.com/nican2018/rvlm)
 1. [CVPR 2026 Findings] **CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare** [[paper]](https://arxiv.org/abs/2603.24157)
 1. [ML4H 2025] **Dialogue to Question Generation for Evidence-based Medical Guideline Agent Development** [[paper]](https://arxiv.org/abs/2603.23937)
 1. [arxiv 2026.3] **From Physician Expertise to Clinical Agents: Preserving, Standardizing, and Scaling Physicians' Medical Expertise with Lightweight LLM** [[paper]](https://arxiv.org/abs/2603.23520)
@@ -521,6 +520,11 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                       | Venue   | Date    | Paper Link                                                                                                                    | Project Page                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------- | :------ | :------ | :---------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.24649) | ![Star](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills.svg?style=social&label=Star) <br> [GitHub](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) <br> [Project](https://jakobshen.github.io/MedOpenClaw/) |
+| **Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.21597) | Not Available |
+| **Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.05873) | Not Available |
+| **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.05860) | Not Available |
+| **Towards a Medical AI Scientist** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.28589) | [Project](https://cuhk-aim-group.github.io/Med-AI-Scientist-Homepage/) |
 | **Meissa: Multi-modal Medical Agentic Intelligence** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.09018) | ![Star](https://img.shields.io/github/stars/Schuture/Meissa.svg?style=social&label=Star) <br> [GitHub](https://github.com/Schuture/Meissa) |
 | **CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning** | ICLR | 2026.03 | [Paper](https://arxiv.org/abs/2603.01607) | [Project](https://xypb.github.io/CARE-Project-Page/) |
 | **3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.18064) | Not Available |
@@ -544,6 +548,8 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                    | Venue                                      | Date    | Paper Link                                                            | Project Page                                                                                                                                                                         |
 | :----------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- | :------ | :-------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **EviAgent: Evidence-Driven Agent for Radiology Report Generation** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.13956) | Not Available |
+| **Agentic Automation of BT-RADS Scoring: End-to-End Multi-Agent System for Standardized Brain Tumor Follow-up Assessment** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.21494) | Not Available |
 | **DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.00777) | Not Available |
 | **Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting?** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.22959) | ![Star](https://img.shields.io/github/stars/TruhnLab/Contrastive-Agent-Reasoning.svg?style=social&label=Star) <br> [GitHub](https://github.com/TruhnLab/Contrastive-Agent-Reasoning) |
 | **Which Tool Response Should I Trust? Tool-Expertise-Aware CXR Agent with Multimodal Agentic Learning** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.21517) | Not Available |
@@ -569,6 +575,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                             | Venue         | Date    | Paper Link                                                | Project Page                                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------------- | :------------ | :------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.05884) | Not Available |
 | **LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.18773) | Not Available |
 | **SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction** | arXiv | 2025.11 | [Paper](https://arxiv.org/abs/2511.16635)                | Not Available |
 | **GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL**            | arXiv         | 2025.08 | [Paper](http://arxiv.org/abs/2508.01293v1)                | Not Available                                                                                                                                                              |
@@ -592,6 +599,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                      | Venue | Date    | Paper Link                                 | Project Page                                                                                                                     |
 | :----------------------------------------------------------------------------------------- | :---- | :------ | :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| **Anatomical Prior-Driven Framework for Autonomous Robotic Cardiac Ultrasound Standard View Acquisition** | ICRA | 2026.03 | [Paper](https://arxiv.org/abs/2603.21134) | Not Available |
 | **Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.13052v1) | ![Star](https://img.shields.io/github/stars/stytim/IVS.svg?style=social&label=Star) <br> [GitHub](https://github.com/stytim/IVS) |
 
 ### **1.6 Radiotherapy**
@@ -618,6 +626,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                  | Venue          | Date    | Paper Link                                                                    | Project Page                                                                                                                                                                 |
 | :----------------------------------------------------------------------------------------------------- | :------------- | :------ | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Autonomous Agent-Orchestrated Digital Twins (AADT): State Synchronization in Rare Genetic Disorders** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.27104) | Not Available |
 | **ProtRLSearch: A Multi-Round Multimodal Protein Search Agent with LLMs Trained via RL** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.01464) | Not Available |
 | **Geneagent: self-verification language agent for gene-set analysis using domain databases**           | Nature Methods | 2025    | [Paper](https://doi.org/10.1038/s41592-025-02748-6)                           | ![Star](https://img.shields.io/github/stars/ncbi-nlp/GeneAgent.svg?style=social&label=Star) <br> [GitHub](https://github.com/ncbi-nlp/GeneAgent)                             |
 | **CRISPR-GPT for agentic automation of gene-editing experiments**                                      | Nature BME     | 2025    | [Paper](https://doi.org/10.1038/s41551-025-01463-z)                           | ![Star](https://img.shields.io/github/stars/cong-lab/crispr-gpt-pub.svg?style=social&label=Star) <br> [GitHub](https://github.com/cong-lab/crispr-gpt-pub)                   |
@@ -629,6 +638,11 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                        | Venue                | Date    | Paper Link                                                                                              | Project Page                                                                                                                                                     |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------- | :------ | :------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.29709) | Not Available |
+| **Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.22767) | ![Star](https://img.shields.io/github/stars/somewordstoolate/RWE-bench.svg?style=social&label=Star) <br> [GitHub](https://github.com/somewordstoolate/RWE-bench) |
+| **From Physician Expertise to Clinical Agents: Preserving, Standardizing, and Scaling Physicians' Medical Expertise** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.23520) | Not Available |
+| **Empowering Locally Deployable Medical Agent via State Enhanced Logical Skills for FHIR-based Clinical Tasks** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.06902) | Not Available |
+| **When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.11721) | Not Available |
 | **TRACE: Temporal Reasoning via Agentic Context Evolution for Streaming EHRs** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.12833) | Not Available |
 | **AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.13918) | Not Available |
 | **ExperienceWeaver: Optimizing Small-sample Experience Learning for Clinical Text Improvement** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.00740) | Not Available |
@@ -660,6 +674,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                  | Venue  | Date   | Paper Link                                                              | Project Page                                                                                                                                                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------------- | :----- | :----- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dialogue to Question Generation for Evidence-based Medical Guideline Agent Development** | ML4H | 2026.03 | [Paper](https://arxiv.org/abs/2603.23937) | Not Available |
 | **An Agentic AI Framework for Training General Practitioner Student Skills** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.18440) | Not Available |
 | **MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.05671) | ![Star](https://img.shields.io/github/stars/Zhitao-He/MedTutor-R1.svg?style=social&label=Star) <br> [GitHub](https://github.com/Zhitao-He/MedTutor-R1) |
 | **Exploring Community-Powered Conversational Agent for Health Knowledge Acquisition** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.09511) | Not Available |
@@ -668,6 +683,15 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                                 | Venue             | Date    | Paper Link                                             | Project Page                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :---------------- | :------ | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance** | arXiv | 2026.04 | [Paper](https://arxiv.org/abs/2604.01113) | Not Available |
+| **Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.27820) | Not Available |
+| **MediHive: A Decentralized Agent Collective for Medical Reasoning** | IEEE ICHI | 2026.03 | [Paper](https://arxiv.org/abs/2603.27150) | Not Available |
+| **ClinicalAgents: Multi-Agent Orchestration for Clinical Decision Making with Dual-Memory** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.26182) | Not Available |
+| **Multi-Agent Reasoning with Consistency Verification Improves Uncertainty Calibration in Medical MCQA** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.24481) | Not Available |
+| **CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare** | CVPR Findings | 2026.03 | [Paper](https://arxiv.org/abs/2603.24157) | Not Available |
+| **Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.21475) | ![Star](https://img.shields.io/github/stars/linhh29/Unified-MAS.svg?style=social&label=Star) <br> [GitHub](https://github.com/linhh29/Unified-MAS) |
+| **TheraAgent: Multi-Agent Framework with Self-Evolving Memory for PET Theranostics** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.13676) | Not Available |
+| **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.14771) | Not Available |
 | **MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.13332) | Not Available |
 | **ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue** | ICLR | 2026.03 | [Paper](https://arxiv.org/abs/2603.02216) | Not Available |
 | **MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.05129) | Not Available |
@@ -729,6 +753,8 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                                 | Venue                             | Date    | Paper Link                                 | Project Page                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------- | :------ | :----------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **OMIND: Framework for Knowledge Grounded Finetuning and Multi-Turn Dialogue Benchmark for Mental Health LLMs** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.25105) | Not Available |
+| **YAQIN: Culturally Sensitive, Agentic AI for Mental Healthcare Support Among Muslim Women in the UK** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.07709) | Not Available |
 | **MIND: Unified Inquiry and Diagnosis RL for Psychiatric Consultation** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.03677) | Not Available |
 | **SynthAgent: A Multi-Agent LLM Framework for Realistic Patient Simulation** | AAAI Workshop | 2026.02 | [Paper](https://arxiv.org/abs/2602.08254) | Not Available |
 | **Advancing AI Trustworthiness Through Patient Simulation for Antidepressant Selection** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.11391) | Not Available |
@@ -786,6 +812,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                      | Venue                          | Date    | Paper Link                                                           | Project Page                                                                                                                                         |
 | :--------------------------------------------------------------------------------------------------------- | :----------------------------- | :------ | :------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.08166) | ![Star](https://img.shields.io/github/stars/DUTIR-BioNLP/RexDrug.svg?style=social&label=Star) <br> [GitHub](https://github.com/DUTIR-BioNLP/RexDrug) |
 | **ALPACA: A Reinforcement Learning Environment for Medication Repurposing in Alzheimer's Disease** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.19298) | Not Available |
 | **Causal-Enhanced AI Agents for Medical Research Screening** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.02814) | Not Available |
 | **MedAI: Evaluating TxAgent's Therapeutic Agentic Reasoning in the NeurIPS CURE-Bench Competition** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.11682) | [Benchmark & Competition](https://curebench.ai/) |
@@ -806,6 +833,11 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                       | Venue              | Date    | Paper Link                                             | Project Page                                                                                                                                           |
 | :-------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------ | :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.17419) | Not Available |
+| **UAV-MARL: Multi-Agent Reinforcement Learning for Time-Critical and Dynamic Medical Supply Delivery** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.10528) | Not Available |
+| **Position: Multi-Agent Algorithmic Care Systems Demand Contestability for Trustworthy AI** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.20595) | Not Available |
+| **Six Interventions for the Responsible and Ethical Implementation of Medical AI Agents** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.13743) | Not Available |
+| **Rethinking Health Agents: From Siloed AI to Collaborative Decision Mediators** | CHI Workshop | 2026.03 | [Paper](https://arxiv.org/abs/2603.24986) | Not Available |
 | **Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study** | HealthSec/ACSAC | 2026.03 | [Paper](https://arxiv.org/abs/2603.03633) | Not Available |
 | **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.18460) | Not Available |
 | **Agentic AI, Medical Morality, and the Transformation of the Patient-Physician Relationship** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.16553) | Not Available |
@@ -830,6 +862,12 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                         | Venue | Date    | Paper Link                                 | Project Page                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------ | :---- | :------ | :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.25821) | Not Available |
+| **Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.25645) | ![Star](https://img.shields.io/github/stars/ajhamdi/colon-bench-eval.svg?style=social&label=Star) <br> [GitHub](https://github.com/ajhamdi/colon-bench-eval) <br> [Project](https://abdullahamdi.com/colon-bench) |
+| **MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.09909) | Not Available |
+| **MedPriv-Bench: Benchmarking the Privacy-Utility Trade-off of LLMs in Medical Open-End Question Answering** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.14265) | Not Available |
+| **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.14771) | Not Available |
+| **Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.22767) | ![Star](https://img.shields.io/github/stars/somewordstoolate/RWE-bench.svg?style=social&label=Star) <br> [GitHub](https://github.com/somewordstoolate/RWE-bench) |
 | **LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.10367) | Not Available |
 | **Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?** | EACL Workshop | 2026.03 | [Paper](https://arxiv.org/abs/2603.04421) | Not Available |
 | **MEDVISTAGYM: A Scalable Training Environment for Thinking with Medical Images** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.07107) | Not Available |
@@ -866,6 +904,8 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :---- | :---- | :--- | :--------- | :----------- |
+| **Rethinking Health Agents: From Siloed AI to Collaborative Decision Mediators** | CHI Workshop | 2026 | [Paper](https://arxiv.org/abs/2603.24986) | Not Available |
+| **Six Interventions for the Responsible and Ethical Implementation of Medical AI Agents** | arXiv | 2026 | [Paper](https://arxiv.org/abs/2603.13743) | Not Available |
 | **A Comprehensive Survey of Agentic AI in Healthcare** | Authorea / TechRxiv | 2025 | [Paper](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare) | ![Star](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare.svg?style=social&label=Star) <br> [GitHub](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) |
 | **AI agents in clinical medicine: a systematic review** | medRxiv | 2025 | [Paper](https://www.medrxiv.org/content/10.1101/2025.08.22.25334232v1) | Not Available |
 | **LLM-based agentic systems in medicine and healthcare** | Nature Machine Intelligence | 2024 | [Paper](https://www.nature.com/articles/s42256-024-00944-1) | Not Available |
@@ -903,6 +943,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :---- | :---- | :--- | :--------- | :----------- |
+| **Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives** | arXiv | 2026 | [Paper](https://arxiv.org/abs/2603.05884) | Not Available |
 | **Reimagining psychiatric care with agentic AI: promise, challenges, and a roadmap forward** | npj Digital Medicine | 2026 | [Paper](https://www.nature.com/articles/s41746-026-02453-4) | Not Available |
 | **Large language model-driven agents in nursing practice: A scoping review** | Nurse Education Today | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2352013225001309) | Not Available |
 | **Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education** | Communications Medicine | 2025 | [Paper](https://www.nature.com/articles/s43856-025-01283-x) | Not Available |
