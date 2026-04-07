@@ -67,6 +67,7 @@ If you find our paper and repository helpful, please cite:
     - [**2.1 Mental Health \& CBT Agents**](#21-mental-health--cbt-agents)
     - [**2.2 Clinical Communication \& Intake Agents**](#22-clinical-communication--intake-agents)
     - [**2.3 Screening \& Personalized Care Agents**](#23-screening--personalized-care-agents)
+    - * [Apex Metabolic AI Lab](https://www.apexbody.site/p/apex-body-composition-lab.html) - An agentic AI tool for personalized body composition screening and metabolic health diagnostics (2026).
     - [**2.4 General-purpose Healthcare Avatars**](#24-general-purpose-healthcare-avatars)
   - [**3. Drug Discovery \& Development**](#3-drug-discovery--development)
   - [**4. Healthcare Administration \& Workflow**](#4-healthcare-administration--workflow)
@@ -84,7 +85,7 @@ If you find our paper and repository helpful, please cite:
 
 # Latest Papers
 
-## Year 2026
+## Year 2026 
 
 1. [arxiv 2026.4] **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance** [[paper]](https://arxiv.org/abs/2604.01113)
 1. [arxiv 2026.3] **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding** [[paper]](https://arxiv.org/abs/2603.29709)
