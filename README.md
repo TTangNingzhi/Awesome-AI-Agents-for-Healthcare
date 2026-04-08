@@ -88,6 +88,7 @@ If you find our paper and repository helpful, please cite:
 ## Year 2026 
 
 1. [arxiv 2026.4] **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance** [[paper]](https://arxiv.org/abs/2604.01113)
+1. [arxiv 2026.3] **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis** [[paper]](https://arxiv.org/pdf/2603.26122)
 1. [arxiv 2026.3] **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding** [[paper]](https://arxiv.org/abs/2603.29709)
 1. [arxiv 2026.3] **Towards a Medical AI Scientist** [[paper]](https://arxiv.org/abs/2603.28589) [[Project]](https://cuhk-aim-group.github.io/Med-AI-Scientist-Homepage/)
 1. [arxiv 2026.3] **Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning** [[paper]](https://arxiv.org/abs/2603.27820)
