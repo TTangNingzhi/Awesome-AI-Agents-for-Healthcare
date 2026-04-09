@@ -895,6 +895,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **DoctorGPT** | Offline-first LLM fine-tuned on medical dialogue data that can pass the US Medical Licensing Exam | ![Star](https://img.shields.io/github/stars/tmc/DoctorGPT.svg?style=social&label=Star) <br> [GitHub](https://github.com/tmc/DoctorGPT) |
 | **Anthropic Healthcare Skills** | Official healthcare skills including FHIR developer tools, prior auth review, and clinical trial protocol generation | [GitHub](https://github.com/anthropics/healthcare) |
 | **Voice AI SDR Agent** | Production-ready autonomous AI phone agent for patient outreach, appointment scheduling, and healthcare communication using LangGraph and Twilio | ![Star](https://img.shields.io/github/stars/Rajathbharadwaj/voice-agent.svg?style=social&label=Star) <br> [GitHub](https://github.com/Rajathbharadwaj/voice-agent) |
+| **Healthcare Agents** | 51 open-source AI agents for US healthcare administration with MHA-level expertise across revenue cycle, compliance, quality, clinical ops, payer relations, health IT, and pharmacy. Features real regulatory citations (42 CFR, CMS) and works with Claude Code, Cursor, Codex CLI, and 10+ AI tools | ![Star](https://img.shields.io/github/stars/ajhcs/healthcare-agents.svg?style=social&label=Star) <br> [GitHub](https://github.com/ajhcs/healthcare-agents) |
 
 ## Healthcare MCP Servers
 
