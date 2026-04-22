@@ -30,12 +30,13 @@ We will try to keep this list updated. If you find any errors or any missing pap
 If you find our paper and repository helpful, please cite:
 
 ```
-@article{xu2025comprehensive,
-  title={A Comprehensive Survey of Agentic AI in Healthcare},
-  author={Xu, Gelei and Li, Xueyang and Chen, Yixiong and Duan, Yuying and Wu, Shuqing and Yu, Alexander and Chiu, Ching-Hao and Ni, Juntong and Tang, Ningzhi and Li, Toby Jia-Jun and others},
-  journal={Authorea Preprints},
-  year={2025},
-  publisher={Authorea}
+@article{xu2026comprehensive,
+  title={A comprehensive survey of AI Agents in Healthcare},
+  author={Xu, Gelei and Li, Xueyang and Chen, Yixiong and Duan, Yuying and Wu, Shuqing and Yu, Haoxinran and Chiu, Ching-Hao and Ni, Juntong and Tang, Ningzhi and Li, Toby Jia-Jun and others},
+  journal={Journal of Biomedical Informatics},
+  pages={105045},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
