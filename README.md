@@ -25,7 +25,7 @@ This repository is a curated list of research papers, projects, and resources re
 
 We will try to keep this list updated. If you find any errors or any missing papers, please don't hesitate to open issues or pull requests.
 
-**📘 Read our survey paper here:** [A Comprehensive Survey of AI Agents for Healthcare](https://www.sciencedirect.com/science/article/pii/S1532046426000699?via%3Dihub)
+**📘 Read our survey paper here:** [A Comprehensive Survey of AI Agents in Healthcare](https://www.sciencedirect.com/science/article/pii/S1532046426000699?via%3Dihub)
 
 If you find our paper and repository helpful, please cite:
 
